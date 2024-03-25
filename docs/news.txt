@@ -1,0 +1,54 @@
+Apple fined £1.5bn for not notifying users of cheaper music streaming options
+iPhone and iPad users paid "significantly higher prices for music streaming subscriptions", the European Commission said.
+
+By Sarah Taaffe-Maguire
+
+Mar 04, 2024 04:19 PM3 min. readView original
+Apple has been fined €1.8bn (£1.54bn) by the EU for favouring its own music streaming service rather than rivals.
+
+Apple did not fully inform their device users there were alternative and cheaper subscription services for more than a decade, said the EU executive, the European Commission.
+
+Money blog: Holidays get cheaper as pound strengthens - except in these four countries
+
+As a result, iPhone and iPad users paid "significantly higher prices for music streaming subscriptions", it said, and Apple abused its dominant position as the provider of music streaming services in its app store.
+
+The fine has been issued due to a complaint by streaming service Spotify which then launched a five-year EU investigation focused on how Apple prevented app developers from telling users of cheaper ways to pay for subscriptions without going through an app.
+
+It found that Apple stopped streaming services, such as Spotify, from letting users know the cost of non-Apple subscription offers.
+
+Penalty much larger than expected to have deterrent effect
+It's a pretty significant number.
+
+Most people thought that the EU was going to fine Apple for this particular breach of its anti-trust rules but the number that was doing the rounds was round €500m, so to come in at €1.8bn is a thumping penalty indeed.
+
+The EU is making the point that the reason the fine was so big partly was as a deterrent against future anti-competitive behaviour but the second point was because Apple filed incorrect information while it was going back and forth with the European Commission on this.
+
+At the heart of this is the fact that Apple did not make clear to its users that music streaming was available through other app stores other than its own.
+
+Interestingly, Spotify actually doesn't sell subscriptions through Apple's app store, which is something that's got Apple particularly hot under the collar and it will appeal against the decision accordingly.
+
+It's worth pointing out that under the EU's new Digital Markets Act, which was passed at the end of last year and comes into effect later this week, Apple will have to allow other app stores onto its iOS operating system so in theory, this sort of breach shouldn't happen again.
+
+Apple is likely to appeal against this ruling and it could go through European courts. It could take years, effectively.
+
+The tech giant banned app makers from "fully informing iOS users about alternative and cheaper music subscription services outside of the app," said the EU's competition commissioner, Margrethe Vestager.
+
+"This is illegal, and it has impacted millions of European consumers."
+
+To comply with the finding, Apple said it will allow iPhone users in Europe to use app stores other than its own and enable developers to offer alternative payment systems.
+
+It is likely it will appeal.
+
+"The decision was reached despite the commission's failure to uncover any credible evidence of consumer harm, and ignores the realities of a market that is thriving, competitive, and growing fast."
+
+While the sum is significant, it accounts for only 0.5% of Apple's worldwide revenue and it could have been fined 10% of global turnover.
+
+There's going to be a direct benefit to the UK from the fine. As it was still a member of the EU when the investigation was launched and Apple was perpetrating the wrong, it will be one of the 28 countries sharing in the sum Apple pays.
+
+Sales through the app store are a lucrative part of Apple's business as it charges 30% fee on all purchases.
+
+It's the first time it has been subject to an EU anti-monopoly law levy and the third largest one issued by the commission.
+
+The largest was the €4.34bn (£3.8bn) issued against Google for abusing its control of the Android operating system by forcing vendors to pre-install apps.
+
+From Thursday this week such examinations and fines will not take place as mobile phone makers will be required to have other payment methods and app stores within their operating systems as part of the Digital Markets Act.

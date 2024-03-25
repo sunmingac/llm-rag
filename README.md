@@ -19,3 +19,26 @@ Install [Ollama](https://ollama.com/) and start a language model
 ```
 ollama run mixtral
 ```
+
+Run [Qdrant](https://github.com/qdrant/rust-client) with enabled gRPC interface
+
+```
+docker run -p 6333:6333 -p 6334:6334 \
+    -e QDRANT__SERVICE__GRPC_PORT="6334" \
+    qdrant/qdrant
+```
+
+## Python
+Jupyter Notebook [rag.ipynb](rag.ipynb)
+
+## Rust
+```
+cd rust
+cargo run
+```
+
+## Scala
+```
+cd scala
+sbt run
+```
