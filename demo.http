@@ -24,3 +24,13 @@ GET http://localhost:6333/collections/demo
 ###
 GET http://localhost:6333/collections/demo/points/1
 
+###
+POST http://localhost:11434/api/generate
+Content-Type: application/json
+
+{
+  "model": "mixtral",
+  "prompt": "What color is the sky at different times of the day? Respond using JSON",
+  "stream": false
+}
+
